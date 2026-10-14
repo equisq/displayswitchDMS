@@ -1,0 +1,22 @@
+{
+    "id": "displaySwitch",
+    "name": "Display Switch",
+    "description": "Super+P style display switcher for niri in DankMaterialShell: PC screen only, external displays only (with automatic fallback when they are unplugged), duplicated and extended, in a centered DMS popup.",
+    "version": "1.0.0",
+    "author": "equisq",
+    "type": "daemon",
+    "capabilities": [
+        "daemon",
+        "display-switch"
+    ],
+    "icon": "cast",
+    "component": "./DisplaySwitchDaemon.qml",
+    "settings": "./DisplaySwitchSettings.qml",
+    "startupCheck": "./DisplaySwitchStartupCheck.qml",
+    "requires_dms": ">=1.6.0",
+    "permissions": [
+        "settings_read",
+        "settings_write",
+        "process"
+    ]
+}

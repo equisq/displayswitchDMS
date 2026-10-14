@@ -1,0 +1,158 @@
+{
+  "All displays enabled": {
+    "All displays enabled": "已启用所有显示器"
+  },
+  "Apply when the Super key is released": {
+    "Apply when the Super key is released": "松开 Super 键时应用"
+  },
+  "Applying…": {
+    "Applying…": "正在应用…"
+  },
+  "Assign a shortcut in Settings → Keyboard Shortcuts with the Shell Command: dms ipc call displayswitch toggle": {
+    "Assign a shortcut in Settings → Keyboard Shortcuts with the Shell Command: dms ipc call displayswitch toggle": "请在 设置 → 键盘快捷键 中使用 Shell 命令分配快捷键：dms ipc call displayswitch toggle"
+  },
+  "At least two displays are needed": {
+    "At least two displays are needed": "至少需要两个显示器"
+  },
+  "Built-in display names": {
+    "Built-in display names": "内置显示器名称"
+  },
+  "Choose how to use your displays": {
+    "Choose how to use your displays": "选择如何使用显示器"
+  },
+  "Comma separated connector prefixes. Empty means eDP, LVDS, DSI.": {
+    "Comma separated connector prefixes. Empty means eDP, LVDS, DSI.": "以逗号分隔的接口前缀。留空表示 eDP、LVDS、DSI。"
+  },
+  "Could not change the display layout": {
+    "Could not change the display layout": "无法更改显示器布局"
+  },
+  "Could not enable the displays": {
+    "Could not enable the displays": "无法启用显示器"
+  },
+  "Display": {
+    "Display": "显示器"
+  },
+  "Display Switch": {
+    "Display Switch": "Display Switch"
+  },
+  "Display Switch only works with niri": {
+    "Display Switch only works with niri": "Display Switch 只能在 niri 下使用"
+  },
+  "Display Switch plugin directory not found": {
+    "Display Switch plugin directory not found": "找不到 Display Switch 插件目录"
+  },
+  "Display connected": {
+    "Display connected": "显示器已连接"
+  },
+  "Display layout restored": {
+    "Display layout restored": "显示器布局已恢复"
+  },
+  "Display service unavailable": {
+    "Display service unavailable": "显示服务不可用"
+  },
+  "Display unplugged": {
+    "Display unplugged": "显示器已拔出"
+  },
+  "Display unplugged: using the remaining screen": {
+    "Display unplugged: using the remaining screen": "显示器已拔出：正在使用剩余的屏幕"
+  },
+  "Displays you already configured keep their saved layout.": {
+    "Displays you already configured keep their saved layout.": "已配置过的显示器会保留其已保存的布局。"
+  },
+  "Duplicate": {
+    "Duplicate": "复制"
+  },
+  "Extend": {
+    "Extend": "扩展"
+  },
+  "Extend the desktop": {
+    "Extend the desktop": "扩展桌面"
+  },
+  "External only": {
+    "External only": "仅外接"
+  },
+  "Install wl-mirror to mirror displays": {
+    "Install wl-mirror to mirror displays": "请安装 wl-mirror 以复制显示器"
+  },
+  "Keep layout after niri config reload": {
+    "Keep layout after niri config reload": "niri 配置重新加载后保持布局"
+  },
+  "Keep the current mode": {
+    "Keep the current mode": "保持当前模式"
+  },
+  "Like GNOME: press the shortcut repeatedly to cycle, release Super to apply.": {
+    "Like GNOME: press the shortcut repeatedly to cycle, release Super to apply.": "与 GNOME 相同：重复按快捷键切换，松开 Super 应用。"
+  },
+  "Mirroring stopped": {
+    "Mirroring stopped": "镜像已停止"
+  },
+  "NIRI_SOCKET is not set, so this session is not running under niri.": {
+    "NIRI_SOCKET is not set, so this session is not running under niri.": "未设置 NIRI_SOCKET，因此此会话未在 niri 下运行。"
+  },
+  "No built-in display": {
+    "No built-in display": "没有内置显示器"
+  },
+  "No external display connected": {
+    "No external display connected": "未连接外接显示器"
+  },
+  "Only needed if wl-mirror is not in your PATH.": {
+    "Only needed if wl-mirror is not in your PATH.": "仅当 wl-mirror 不在 PATH 中时才需要。"
+  },
+  "PC screen only": {
+    "PC screen only": "仅电脑屏幕"
+  },
+  "Re-apply the last mode you chose for the connected displays.": {
+    "Re-apply the last mode you chose for the connected displays.": "为已连接的显示器重新应用上次选择的模式。"
+  },
+  "Restore layout at login": {
+    "Restore layout at login": "登录时恢复布局"
+  },
+  "Run ./build.sh in %1 (needs Go), then enable this plugin again.": {
+    "Run ./build.sh in %1 (needs Go), then enable this plugin again.": "请在 %1 中运行 ./build.sh（需要 Go），然后重新启用此插件。"
+  },
+  "Show notifications": {
+    "Show notifications": "显示通知"
+  },
+  "Show the same picture on every display.": {
+    "Show the same picture on every display.": "在所有显示器上显示相同画面。"
+  },
+  "Switched to: %1": {
+    "Switched to: %1": "已切换到：%1"
+  },
+  "Tell me when a display is unplugged or restored.": {
+    "Tell me when a display is unplugged or restored.": "显示器被拔出或恢复时通知我。"
+  },
+  "The Display Switch backend is not built": {
+    "The Display Switch backend is not built": "Display Switch 后端尚未构建"
+  },
+  "The plugin could not locate its own files. Try reinstalling it.": {
+    "The plugin could not locate its own files. Try reinstalling it.": "插件无法找到自己的文件。请尝试重新安装。"
+  },
+  "This mode is not available with the connected displays": {
+    "This mode is not available with the connected displays": "已连接的显示器不支持此模式"
+  },
+  "Use every display as one larger desktop.": {
+    "Use every display as one larger desktop.": "将所有显示器用作一个更大的桌面。"
+  },
+  "Use external displays only. Falls back to the PC screen when they are unplugged.": {
+    "Use external displays only. Falls back to the PC screen when they are unplugged.": "仅使用外接显示器。拔出后回退到电脑屏幕。"
+  },
+  "Use keys 1-4, arrows or P to cycle, Enter to select": {
+    "Use keys 1-4, arrows or P to cycle, Enter to select": "按 1-4 键、方向键或 P 切换，按 Enter 选择"
+  },
+  "Use the built-in screen only. External displays are turned off.": {
+    "Use the built-in screen only. External displays are turned off.": "仅使用内置屏幕。外接显示器将被关闭。"
+  },
+  "When a new display is plugged in": {
+    "When a new display is plugged in": "插入新显示器时"
+  },
+  "niri forgets temporary output changes when its config reloads.": {
+    "niri forgets temporary output changes when its config reloads.": "niri 在重新加载配置时会忘记临时的输出更改。"
+  },
+  "wl-mirror failed, displays are extended instead.": {
+    "wl-mirror failed, displays are extended instead.": "wl-mirror 失败，已改为扩展显示器。"
+  },
+  "wl-mirror path": {
+    "wl-mirror path": "wl-mirror 路径"
+  }
+}

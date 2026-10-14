@@ -1,0 +1,158 @@
+{
+  "All displays enabled": {
+    "All displays enabled": "Todas las pantallas activadas"
+  },
+  "Apply when the Super key is released": {
+    "Apply when the Super key is released": "Aplicar al soltar la tecla Super"
+  },
+  "Applying…": {
+    "Applying…": "Aplicando…"
+  },
+  "Assign a shortcut in Settings → Keyboard Shortcuts with the Shell Command: dms ipc call displayswitch toggle": {
+    "Assign a shortcut in Settings → Keyboard Shortcuts with the Shell Command: dms ipc call displayswitch toggle": "Asigna un atajo en Ajustes → Atajos de teclado con el comando de shell: dms ipc call displayswitch toggle"
+  },
+  "At least two displays are needed": {
+    "At least two displays are needed": "Se necesitan al menos dos pantallas"
+  },
+  "Built-in display names": {
+    "Built-in display names": "Nombres de pantallas integradas"
+  },
+  "Choose how to use your displays": {
+    "Choose how to use your displays": "Elige cómo usar tus pantallas"
+  },
+  "Comma separated connector prefixes. Empty means eDP, LVDS, DSI.": {
+    "Comma separated connector prefixes. Empty means eDP, LVDS, DSI.": "Prefijos de conector separados por comas. Vacío significa eDP, LVDS, DSI."
+  },
+  "Could not change the display layout": {
+    "Could not change the display layout": "No se pudo cambiar la disposición de las pantallas"
+  },
+  "Could not enable the displays": {
+    "Could not enable the displays": "No se pudieron activar las pantallas"
+  },
+  "Display": {
+    "Display": "Pantalla"
+  },
+  "Display Switch": {
+    "Display Switch": "Display Switch"
+  },
+  "Display Switch only works with niri": {
+    "Display Switch only works with niri": "Display Switch solo funciona con niri"
+  },
+  "Display Switch plugin directory not found": {
+    "Display Switch plugin directory not found": "No se encontró el directorio del plugin Display Switch"
+  },
+  "Display connected": {
+    "Display connected": "Pantalla conectada"
+  },
+  "Display layout restored": {
+    "Display layout restored": "Disposición de pantallas restaurada"
+  },
+  "Display service unavailable": {
+    "Display service unavailable": "Servicio de pantallas no disponible"
+  },
+  "Display unplugged": {
+    "Display unplugged": "Pantalla desconectada"
+  },
+  "Display unplugged: using the remaining screen": {
+    "Display unplugged: using the remaining screen": "Pantalla desconectada: usando la pantalla restante"
+  },
+  "Displays you already configured keep their saved layout.": {
+    "Displays you already configured keep their saved layout.": "Las pantallas ya configuradas conservan su disposición guardada."
+  },
+  "Duplicate": {
+    "Duplicate": "Duplicar"
+  },
+  "Extend": {
+    "Extend": "Extender"
+  },
+  "Extend the desktop": {
+    "Extend the desktop": "Extender el escritorio"
+  },
+  "External only": {
+    "External only": "Solo externas"
+  },
+  "Install wl-mirror to mirror displays": {
+    "Install wl-mirror to mirror displays": "Instala wl-mirror para duplicar pantallas"
+  },
+  "Keep layout after niri config reload": {
+    "Keep layout after niri config reload": "Mantener la disposición tras recargar la configuración de niri"
+  },
+  "Keep the current mode": {
+    "Keep the current mode": "Mantener el modo actual"
+  },
+  "Like GNOME: press the shortcut repeatedly to cycle, release Super to apply.": {
+    "Like GNOME: press the shortcut repeatedly to cycle, release Super to apply.": "Como en GNOME: pulsa el atajo varias veces para cambiar, suelta Super para aplicar."
+  },
+  "Mirroring stopped": {
+    "Mirroring stopped": "Duplicación detenida"
+  },
+  "NIRI_SOCKET is not set, so this session is not running under niri.": {
+    "NIRI_SOCKET is not set, so this session is not running under niri.": "NIRI_SOCKET no está definido, así que esta sesión no se ejecuta bajo niri."
+  },
+  "No built-in display": {
+    "No built-in display": "Sin pantalla integrada"
+  },
+  "No external display connected": {
+    "No external display connected": "Ninguna pantalla externa conectada"
+  },
+  "Only needed if wl-mirror is not in your PATH.": {
+    "Only needed if wl-mirror is not in your PATH.": "Solo es necesario si wl-mirror no está en tu PATH."
+  },
+  "PC screen only": {
+    "PC screen only": "Solo pantalla del PC"
+  },
+  "Re-apply the last mode you chose for the connected displays.": {
+    "Re-apply the last mode you chose for the connected displays.": "Volver a aplicar el último modo elegido para las pantallas conectadas."
+  },
+  "Restore layout at login": {
+    "Restore layout at login": "Restaurar la disposición al iniciar sesión"
+  },
+  "Run ./build.sh in %1 (needs Go), then enable this plugin again.": {
+    "Run ./build.sh in %1 (needs Go), then enable this plugin again.": "Ejecuta ./build.sh en %1 (requiere Go) y vuelve a activar este plugin."
+  },
+  "Show notifications": {
+    "Show notifications": "Mostrar notificaciones"
+  },
+  "Show the same picture on every display.": {
+    "Show the same picture on every display.": "Mostrar la misma imagen en todas las pantallas."
+  },
+  "Switched to: %1": {
+    "Switched to: %1": "Cambiado a: %1"
+  },
+  "Tell me when a display is unplugged or restored.": {
+    "Tell me when a display is unplugged or restored.": "Avísame cuando se desconecte o se restaure una pantalla."
+  },
+  "The Display Switch backend is not built": {
+    "The Display Switch backend is not built": "El backend de Display Switch no está compilado"
+  },
+  "The plugin could not locate its own files. Try reinstalling it.": {
+    "The plugin could not locate its own files. Try reinstalling it.": "El plugin no pudo localizar sus propios archivos. Prueba a reinstalarlo."
+  },
+  "This mode is not available with the connected displays": {
+    "This mode is not available with the connected displays": "Este modo no está disponible con las pantallas conectadas"
+  },
+  "Use every display as one larger desktop.": {
+    "Use every display as one larger desktop.": "Usar todas las pantallas como un único escritorio más grande."
+  },
+  "Use external displays only. Falls back to the PC screen when they are unplugged.": {
+    "Use external displays only. Falls back to the PC screen when they are unplugged.": "Usar solo las pantallas externas. Vuelve a la pantalla del PC si se desconectan."
+  },
+  "Use keys 1-4, arrows or P to cycle, Enter to select": {
+    "Use keys 1-4, arrows or P to cycle, Enter to select": "Teclas 1-4, flechas o P para cambiar, Intro para seleccionar"
+  },
+  "Use the built-in screen only. External displays are turned off.": {
+    "Use the built-in screen only. External displays are turned off.": "Usar solo la pantalla integrada. Las pantallas externas se apagan."
+  },
+  "When a new display is plugged in": {
+    "When a new display is plugged in": "Cuando se conecta una pantalla nueva"
+  },
+  "niri forgets temporary output changes when its config reloads.": {
+    "niri forgets temporary output changes when its config reloads.": "niri olvida los cambios temporales de salidas al recargar su configuración."
+  },
+  "wl-mirror failed, displays are extended instead.": {
+    "wl-mirror failed, displays are extended instead.": "wl-mirror ha fallado, las pantallas se extienden en su lugar."
+  },
+  "wl-mirror path": {
+    "wl-mirror path": "Ruta de wl-mirror"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "All displays enabled": {
+    "All displays enabled": "すべてのディスプレイを有効にしました"
+  },
+  "Apply when the Super key is released": {
+    "Apply when the Super key is released": "Super キーを離したときに適用"
+  },
+  "Applying…": {
+    "Applying…": "適用中…"
+  },
+  "Assign a shortcut in Settings → Keyboard Shortcuts with the Shell Command: dms ipc call displayswitch toggle": {
+    "Assign a shortcut in Settings → Keyboard Shortcuts with the Shell Command: dms ipc call displayswitch toggle": "設定 → キーボードショートカットで、シェルコマンド dms ipc call displayswitch toggle のショートカットを割り当ててください"
+  },
+  "At least two displays are needed": {
+    "At least two displays are needed": "2 台以上のディスプレイが必要です"
+  },
+  "Built-in display names": {
+    "Built-in display names": "内蔵ディスプレイ名"
+  },
+  "Choose how to use your displays": {
+    "Choose how to use your displays": "ディスプレイの使い方を選択"
+  },
+  "Comma separated connector prefixes. Empty means eDP, LVDS, DSI.": {
+    "Comma separated connector prefixes. Empty means eDP, LVDS, DSI.": "コンマ区切りのコネクタ接頭辞。空の場合は eDP、LVDS、DSI。"
+  },
+  "Could not change the display layout": {
+    "Could not change the display layout": "ディスプレイの配置を変更できませんでした"
+  },
+  "Could not enable the displays": {
+    "Could not enable the displays": "ディスプレイを有効にできませんでした"
+  },
+  "Display": {
+    "Display": "ディスプレイ"
+  },
+  "Display Switch": {
+    "Display Switch": "Display Switch"
+  },
+  "Display Switch only works with niri": {
+    "Display Switch only works with niri": "Display Switch は niri でのみ動作します"
+  },
+  "Display Switch plugin directory not found": {
+    "Display Switch plugin directory not found": "Display Switch のプラグインディレクトリが見つかりません"
+  },
+  "Display connected": {
+    "Display connected": "ディスプレイが接続されました"
+  },
+  "Display layout restored": {
+    "Display layout restored": "ディスプレイの配置を復元しました"
+  },
+  "Display service unavailable": {
+    "Display service unavailable": "ディスプレイサービスを利用できません"
+  },
+  "Display unplugged": {
+    "Display unplugged": "ディスプレイが取り外されました"
+  },
+  "Display unplugged: using the remaining screen": {
+    "Display unplugged: using the remaining screen": "ディスプレイが取り外されました: 残りの画面を使用します"
+  },
+  "Displays you already configured keep their saved layout.": {
+    "Displays you already configured keep their saved layout.": "設定済みのディスプレイは保存された配置を維持します。"
+  },
+  "Duplicate": {
+    "Duplicate": "複製"
+  },
+  "Extend": {
+    "Extend": "拡張"
+  },
+  "Extend the desktop": {
+    "Extend the desktop": "デスクトップを拡張"
+  },
+  "External only": {
+    "External only": "外部のみ"
+  },
+  "Install wl-mirror to mirror displays": {
+    "Install wl-mirror to mirror displays": "ディスプレイを複製するには wl-mirror をインストールしてください"
+  },
+  "Keep layout after niri config reload": {
+    "Keep layout after niri config reload": "niri の設定再読み込み後も配置を維持"
+  },
+  "Keep the current mode": {
+    "Keep the current mode": "現在のモードを維持"
+  },
+  "Like GNOME: press the shortcut repeatedly to cycle, release Super to apply.": {
+    "Like GNOME: press the shortcut repeatedly to cycle, release Super to apply.": "GNOME と同様: ショートカットを繰り返し押して切り替え、Super を離して適用します。"
+  },
+  "Mirroring stopped": {
+    "Mirroring stopped": "複製を停止しました"
+  },
+  "NIRI_SOCKET is not set, so this session is not running under niri.": {
+    "NIRI_SOCKET is not set, so this session is not running under niri.": "NIRI_SOCKET が設定されていないため、このセッションは niri で実行されていません。"
+  },
+  "No built-in display": {
+    "No built-in display": "内蔵ディスプレイなし"
+  },
+  "No external display connected": {
+    "No external display connected": "外部ディスプレイが接続されていません"
+  },
+  "Only needed if wl-mirror is not in your PATH.": {
+    "Only needed if wl-mirror is not in your PATH.": "wl-mirror が PATH にない場合のみ必要です。"
+  },
+  "PC screen only": {
+    "PC screen only": "PC 画面のみ"
+  },
+  "Re-apply the last mode you chose for the connected displays.": {
+    "Re-apply the last mode you chose for the connected displays.": "接続中のディスプレイに最後に選択したモードを再適用します。"
+  },
+  "Restore layout at login": {
+    "Restore layout at login": "ログイン時に配置を復元"
+  },
+  "Run ./build.sh in %1 (needs Go), then enable this plugin again.": {
+    "Run ./build.sh in %1 (needs Go), then enable this plugin again.": "%1 で ./build.sh を実行し (Go が必要です)、このプラグインを再度有効にしてください。"
+  },
+  "Show notifications": {
+    "Show notifications": "通知を表示"
+  },
+  "Show the same picture on every display.": {
+    "Show the same picture on every display.": "すべてのディスプレイに同じ画面を表示します。"
+  },
+  "Switched to: %1": {
+    "Switched to: %1": "切り替えました: %1"
+  },
+  "Tell me when a display is unplugged or restored.": {
+    "Tell me when a display is unplugged or restored.": "ディスプレイが取り外されたとき、または復元されたときに通知します。"
+  },
+  "The Display Switch backend is not built": {
+    "The Display Switch backend is not built": "Display Switch のバックエンドがビルドされていません"
+  },
+  "The plugin could not locate its own files. Try reinstalling it.": {
+    "The plugin could not locate its own files. Try reinstalling it.": "プラグインが自身のファイルを見つけられませんでした。再インストールしてみてください。"
+  },
+  "This mode is not available with the connected displays": {
+    "This mode is not available with the connected displays": "このモードは接続中のディスプレイでは利用できません"
+  },
+  "Use every display as one larger desktop.": {
+    "Use every display as one larger desktop.": "すべてのディスプレイを 1 つの大きなデスクトップとして使用します。"
+  },
+  "Use external displays only. Falls back to the PC screen when they are unplugged.": {
+    "Use external displays only. Falls back to the PC screen when they are unplugged.": "外部ディスプレイのみを使用します。取り外すと PC 画面に戻ります。"
+  },
+  "Use keys 1-4, arrows or P to cycle, Enter to select": {
+    "Use keys 1-4, arrows or P to cycle, Enter to select": "1〜4 キー、矢印キー、または P で切り替え、Enter で選択"
+  },
+  "Use the built-in screen only. External displays are turned off.": {
+    "Use the built-in screen only. External displays are turned off.": "内蔵ディスプレイのみを使用します。外部ディスプレイはオフになります。"
+  },
+  "When a new display is plugged in": {
+    "When a new display is plugged in": "新しいディスプレイが接続されたとき"
+  },
+  "niri forgets temporary output changes when its config reloads.": {
+    "niri forgets temporary output changes when its config reloads.": "niri は設定の再読み込み時に一時的な出力の変更を忘れます。"
+  },
+  "wl-mirror failed, displays are extended instead.": {
+    "wl-mirror failed, displays are extended instead.": "wl-mirror が失敗したため、代わりにディスプレイを拡張しました。"
+  },
+  "wl-mirror path": {
+    "wl-mirror path": "wl-mirror のパス"
+  }
+}

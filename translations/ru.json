@@ -1,0 +1,158 @@
+{
+  "All displays enabled": {
+    "All displays enabled": "Все экраны включены"
+  },
+  "Apply when the Super key is released": {
+    "Apply when the Super key is released": "Применять при отпускании клавиши Super"
+  },
+  "Applying…": {
+    "Applying…": "Применение…"
+  },
+  "Assign a shortcut in Settings → Keyboard Shortcuts with the Shell Command: dms ipc call displayswitch toggle": {
+    "Assign a shortcut in Settings → Keyboard Shortcuts with the Shell Command: dms ipc call displayswitch toggle": "Назначьте сочетание клавиш в Параметры → Сочетания клавиш с командой оболочки: dms ipc call displayswitch toggle"
+  },
+  "At least two displays are needed": {
+    "At least two displays are needed": "Нужно как минимум два экрана"
+  },
+  "Built-in display names": {
+    "Built-in display names": "Имена встроенных экранов"
+  },
+  "Choose how to use your displays": {
+    "Choose how to use your displays": "Выберите, как использовать экраны"
+  },
+  "Comma separated connector prefixes. Empty means eDP, LVDS, DSI.": {
+    "Comma separated connector prefixes. Empty means eDP, LVDS, DSI.": "Префиксы разъёмов через запятую. Пусто означает eDP, LVDS, DSI."
+  },
+  "Could not change the display layout": {
+    "Could not change the display layout": "Не удалось изменить расположение экранов"
+  },
+  "Could not enable the displays": {
+    "Could not enable the displays": "Не удалось включить экраны"
+  },
+  "Display": {
+    "Display": "Экран"
+  },
+  "Display Switch": {
+    "Display Switch": "Display Switch"
+  },
+  "Display Switch only works with niri": {
+    "Display Switch only works with niri": "Display Switch работает только с niri"
+  },
+  "Display Switch plugin directory not found": {
+    "Display Switch plugin directory not found": "Каталог плагина Display Switch не найден"
+  },
+  "Display connected": {
+    "Display connected": "Экран подключён"
+  },
+  "Display layout restored": {
+    "Display layout restored": "Расположение экранов восстановлено"
+  },
+  "Display service unavailable": {
+    "Display service unavailable": "Служба экранов недоступна"
+  },
+  "Display unplugged": {
+    "Display unplugged": "Экран отключён"
+  },
+  "Display unplugged: using the remaining screen": {
+    "Display unplugged: using the remaining screen": "Экран отключён: используется оставшийся экран"
+  },
+  "Displays you already configured keep their saved layout.": {
+    "Displays you already configured keep their saved layout.": "Уже настроенные экраны сохраняют своё расположение."
+  },
+  "Duplicate": {
+    "Duplicate": "Дублировать"
+  },
+  "Extend": {
+    "Extend": "Расширить"
+  },
+  "Extend the desktop": {
+    "Extend the desktop": "Расширить рабочий стол"
+  },
+  "External only": {
+    "External only": "Только внешние"
+  },
+  "Install wl-mirror to mirror displays": {
+    "Install wl-mirror to mirror displays": "Установите wl-mirror для дублирования экранов"
+  },
+  "Keep layout after niri config reload": {
+    "Keep layout after niri config reload": "Сохранять расположение после перезагрузки конфигурации niri"
+  },
+  "Keep the current mode": {
+    "Keep the current mode": "Сохранить текущий режим"
+  },
+  "Like GNOME: press the shortcut repeatedly to cycle, release Super to apply.": {
+    "Like GNOME: press the shortcut repeatedly to cycle, release Super to apply.": "Как в GNOME: нажимайте сочетание несколько раз для переключения, отпустите Super для применения."
+  },
+  "Mirroring stopped": {
+    "Mirroring stopped": "Дублирование остановлено"
+  },
+  "NIRI_SOCKET is not set, so this session is not running under niri.": {
+    "NIRI_SOCKET is not set, so this session is not running under niri.": "NIRI_SOCKET не задан, поэтому этот сеанс запущен не под niri."
+  },
+  "No built-in display": {
+    "No built-in display": "Нет встроенного экрана"
+  },
+  "No external display connected": {
+    "No external display connected": "Внешний экран не подключён"
+  },
+  "Only needed if wl-mirror is not in your PATH.": {
+    "Only needed if wl-mirror is not in your PATH.": "Нужно только если wl-mirror нет в PATH."
+  },
+  "PC screen only": {
+    "PC screen only": "Только экран ПК"
+  },
+  "Re-apply the last mode you chose for the connected displays.": {
+    "Re-apply the last mode you chose for the connected displays.": "Повторно применять последний выбранный режим для подключённых экранов."
+  },
+  "Restore layout at login": {
+    "Restore layout at login": "Восстанавливать расположение при входе"
+  },
+  "Run ./build.sh in %1 (needs Go), then enable this plugin again.": {
+    "Run ./build.sh in %1 (needs Go), then enable this plugin again.": "Выполните ./build.sh в %1 (нужен Go), затем снова включите этот плагин."
+  },
+  "Show notifications": {
+    "Show notifications": "Показывать уведомления"
+  },
+  "Show the same picture on every display.": {
+    "Show the same picture on every display.": "Показывать одно и то же изображение на всех экранах."
+  },
+  "Switched to: %1": {
+    "Switched to: %1": "Переключено на: %1"
+  },
+  "Tell me when a display is unplugged or restored.": {
+    "Tell me when a display is unplugged or restored.": "Уведомлять, когда экран отключён или восстановлен."
+  },
+  "The Display Switch backend is not built": {
+    "The Display Switch backend is not built": "Бэкенд Display Switch не собран"
+  },
+  "The plugin could not locate its own files. Try reinstalling it.": {
+    "The plugin could not locate its own files. Try reinstalling it.": "Плагин не смог найти собственные файлы. Попробуйте переустановить его."
+  },
+  "This mode is not available with the connected displays": {
+    "This mode is not available with the connected displays": "Этот режим недоступен с подключёнными экранами"
+  },
+  "Use every display as one larger desktop.": {
+    "Use every display as one larger desktop.": "Использовать все экраны как один большой рабочий стол."
+  },
+  "Use external displays only. Falls back to the PC screen when they are unplugged.": {
+    "Use external displays only. Falls back to the PC screen when they are unplugged.": "Использовать только внешние экраны. При их отключении возврат на экран ПК."
+  },
+  "Use keys 1-4, arrows or P to cycle, Enter to select": {
+    "Use keys 1-4, arrows or P to cycle, Enter to select": "Клавиши 1-4, стрелки или P для переключения, Enter для выбора"
+  },
+  "Use the built-in screen only. External displays are turned off.": {
+    "Use the built-in screen only. External displays are turned off.": "Использовать только встроенный экран. Внешние экраны выключаются."
+  },
+  "When a new display is plugged in": {
+    "When a new display is plugged in": "Когда подключается новый экран"
+  },
+  "niri forgets temporary output changes when its config reloads.": {
+    "niri forgets temporary output changes when its config reloads.": "niri забывает временные изменения выходов при перезагрузке конфигурации."
+  },
+  "wl-mirror failed, displays are extended instead.": {
+    "wl-mirror failed, displays are extended instead.": "wl-mirror завершился с ошибкой, экраны расширены вместо этого."
+  },
+  "wl-mirror path": {
+    "wl-mirror path": "Путь к wl-mirror"
+  }
+}
