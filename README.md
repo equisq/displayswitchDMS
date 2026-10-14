@@ -1,5 +1,5 @@
 # Display Switch for DankMaterialShell
-
+![Display Switch main window screenshot](screenshots/main_window.png)
 A GNOME-style **Super+P** display switcher for [niri](https://github.com/YaLTeR/niri), as a DMS plugin. A centered popup in the DMS style lets you pick how your screens are used; a small Go backend does the work through the niri IPC.
 
 - **PC screen only**: the built-in screen is used, external displays are turned off.
